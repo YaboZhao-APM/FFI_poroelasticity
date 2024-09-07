@@ -1,7 +1,8 @@
 # FFI_poroelasticity
 The code is used to calculate the poroelastic Green's function in the FFI
 
-#fault_file is a matrix that defines the model parameters:\n
+#fault_file is a matrix that defines the model parameters:
+
 1 X(Ref) of each rectangular patch (East is positive)
 2 Y(Ref) of each rectangular patch (North is positive)
 3 Z(Ref) of each rectangular patch (Down is positive)
